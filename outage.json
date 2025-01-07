@@ -1,0 +1,14 @@
+[
+  {
+    "date": "Saturday, 14 Dec",
+    "duration": "8:00 AM – 2:00 PM",
+    "location": "Ratho Mill",
+    "imageUrl": "https://raw.githubusercontent.com/finntur/POSource/main/images/outagesrc.jpg"
+  },
+  {
+    "date": "Sunday, 15 Dec",
+    "duration": "8:00 AM – 2:00 PM",
+    "location": "Paul’s Avenue, Kingstown",
+    "imageUrl": "https://raw.githubusercontent.com/finntur/POSource/main/images/outagesrc.jpg"
+  }
+]
