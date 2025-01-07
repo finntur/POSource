@@ -1,33 +1,33 @@
-{
-  "CustomerAdvisory": {
-    "Company": "St. Vincent Electricity Services Limited",
-    "Message": "Please be advised that the electricity service may be restored ahead of schedule or may be delayed beyond the stated time due to unforeseen causes. Motorists and pedestrians are asked to exercise caution during the times specified. VINLEC apologizes for any inconvenience caused to the general public. This Customer Advisory can also be accessed via our website at www.vinlec.com Emergency and WhatsApp: 456-1540.",
-    "Outages": [
+[ 
       {
-        "Date": "Saturday, 14 DEC",
-        "Duration": "8:00 AM - 2:00 PM",
-        "Location": "Ratho Mill (In the Area of Trinity School of Medicine)"
+        "date": "Saturday, 14 DEC",
+        "duration": "8:00 AM - 2:00 PM",
+        "location": "Ratho Mill (In the Area of Trinity School of Medicine)"
+		"imageUrl": "https://raw.githubusercontent.com/finntur/POSource/main/images/outagesrc.jpg"
       },
       {
-        "Date": "Sunday, 15 DEC",
-        "Duration": "8:00 AM - 2:00 PM",
-        "Location": "Paul’s Avenue, Section of Kingstown (In the Area of Sol Gas Station), Section of Lowmans Leeward (In the Area of the Cemetery, the Primary School, New Testament Church), Great House, Mahoe, Carib Village, Section of Campden Park (Including Ruddy’s Electrical, Government Printery, Petro Caribe Filling Station, Kendra’s Aluminum), Murray’s Road, Embassy of the Bolivarian Republic of Venezuela, Embassy of the Republic of China (Taiwan) Beachmont, (In the area of DeFreitas & Associates, Joachim & Associates)"
+        "date": "Sunday, 15 DEC",
+        "duration": "8:00 AM - 2:00 PM",
+        "location": "Paul’s Avenue, Section of Kingstown (In the Area of Sol Gas Station), Section of Lowmans Leeward (In the Area of the Cemetery, the Primary School, New Testament Church), Great House, Mahoe, Carib Village, Section of Campden Park (Including Ruddy’s Electrical, Government Printery, Petro Caribe Filling Station, Kendra’s Aluminum), Murray’s Road, Embassy of the Bolivarian Republic of Venezuela, Embassy of the Republic of China (Taiwan) Beachmont, (In the area of DeFreitas & Associates, Joachim & Associates)"
+		"imageUrl": "https://raw.githubusercontent.com/finntur/POSource/main/images/outagesrc.jpg"
       },
       {
-        "Date": "Monday, 16 DEC",
-        "Duration": "8:00 AM - 2:00 PM",
-        "Location": "Vermont, Belvedere, Brighton, Reviere, Rivulet, Enhams, Diamond (Including the Industrial Estate), New Harmony Hall"
+        "date": "Monday, 16 DEC",
+        "duration": "8:00 AM - 2:00 PM",
+        "location": "Vermont, Belvedere, Brighton, Reviere, Rivulet, Enhams, Diamond (Including the Industrial Estate), New Harmony Hall"
+		"imageUrl": "https://raw.githubusercontent.com/finntur/POSource/main/images/outagesrc.jpg"
       },
       {
-        "Date": "Wednesday, 18 DEC",
-        "Duration": "8:00 AM - 2:00 PM",
-        "Location": "Georgetown Modern Medical and Diagnostic Centre, Chili Village"
+        "date": "Wednesday, 18 DEC",
+        "duration": "8:00 AM - 2:00 PM",
+        "location": "Georgetown Modern Medical and Diagnostic Centre, Chili Village"
+		"imageUrl": "https://raw.githubusercontent.com/finntur/POSource/main/images/outagesrc.jpg"
       },
       {
-        "Date": "Thursday, 19 DEC",
-        "Duration": "8:00 AM - 2:00 PM",
-        "Location": "Diamond"
+        "date": "Thursday, 19 DEC",
+        "duration": "8:00 AM - 2:00 PM",
+        "location": "Diamond"
+		"imageUrl": "https://raw.githubusercontent.com/finntur/POSource/main/images/outagesrc.jpg"
       }
-    ]
-  }
-}
+]
+ 
